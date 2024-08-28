@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#363A3D</color>
+    <color name="gray10">#363A3D</color>
+    <color name="gray20">#757C85</color>
+    <color name="gray30">#EBEDF0</color>
+    <color name="gray40">#F5F7FA</color>
+    <color name="gray50">#FFFFFF</color>
+    <color name="green">#00B887</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="ic_logo_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="red"> #DB3535</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">서치라이트</string>
+    <string name="title_activity_car_number">CarNumberActivity</string>
+    <string name="title_activity_hospital">HospitalActivity</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_on_board">OnBoardActivity</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+    <style name="Theme.HackatonAndroid" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

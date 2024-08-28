@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-mdpi_ic_logo_round.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-mdpi/ic_logo_round.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-anydpi-v26_ic_logo_round.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-anydpi-v26/ic_logo_round.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xxxhdpi_ic_logo_round.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xxxhdpi/ic_logo_round.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/xml_network_security_config.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xxhdpi_ic_logo_round.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xxhdpi/ic_logo_round.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_location_on.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/location_on.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xhdpi_ic_logo_round.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xhdpi/ic_logo_round.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_check.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/check.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_expand_more.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/expand_more.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_location_on2.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/location_on2.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-anydpi-v26_ic_logo.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-anydpi-v26/ic_logo.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_chevron_right.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/chevron_right.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suitl.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suitl.otf"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suitb.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suitb.otf"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xxxhdpi_ic_logo.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xxxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-hdpi_ic_logo.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-hdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xhdpi_ic_logo.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_info.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/info.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_search.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/search.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_searching.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/searching.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-hdpi_ic_logo_round.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-hdpi/ic_logo_round.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_groups.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/groups.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-mdpi_ic_logo.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-mdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_setting.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/setting.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_arrow_forward.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/arrow_forward.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/xml_backup_rules.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_contents.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/contents.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suitr.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suitr.otf"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suite.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suite.otf"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_ic_logo_foreground.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/ic_logo_foreground.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_campaign.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/campaign.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_alarm.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/alarm.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_back.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/back.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_searchlight.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/searchlight.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_location_on3.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/location_on3.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_frame_46.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/frame_46.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suitm.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suitm.otf"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_social_distance.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/social_distance.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/mipmap-xxhdpi_ic_logo.png.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/mipmap-xxhdpi/ic_logo.png"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/drawable_arrow_left.xml.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.example.hackatonandroid.app-merged_res-54:/font_suitsb.otf.flat",
+        "source": "com.example.hackatonandroid.app-main-56:/font/suitsb.otf"
+    }
+]

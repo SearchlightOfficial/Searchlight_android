@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">서치라이트</string>
+    <string name="title_activity_on_board">OnBoardActivity</string>
+    <string name="title_activity_regist">RegistActivity</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+    <string name="title_activity_car_number">CarNumberActivity</string>
+    <string name="title_activity_hospital">HospitalActivity</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+</resources>
